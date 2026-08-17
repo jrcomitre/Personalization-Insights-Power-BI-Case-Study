@@ -1,8 +1,8 @@
 # Personalization Insights — Power BI Case Study
 
-A end-to-end Power BI case study built for a Data Analyst technical interview with **AB InBev's Personalization Bees team**. The project simulates a real-world analytical scenario, combining a robust data model, advanced DAX, and an interactive, presentation-ready report.
+A end-to-end Power BI case study built for a Data Analyst technical interview with **Company Personalization Bees team**. The project simulates a real-world analytical scenario, combining a robust data model, advanced DAX, and an interactive, presentation-ready report.
 
-> ⚠️ **Disclaimer:** This is an independent case study created for a job interview process. It uses sample/simulated data and is **not affiliated with, endorsed by, or representative of AB InBev's actual internal systems, data, or business strategy.**
+> ⚠️ **Disclaimer:** This is an independent case study created for a job interview process. It uses sample/simulated data and is **not affiliated with, endorsed by, or representative of Company actual internal systems, data, or business strategy.**
 
 ---
 
