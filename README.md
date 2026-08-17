@@ -59,7 +59,9 @@ CALCULATE(
 
 | Overview | Personalization Analysis |
 |---|---|
-| `![Overview](assets/overview.png)` | `![Analysis](assets/analysis.png)` |
+| <img width="400" src="assets/overview.png"> | <img width="400" src="assets/overview1.png"> |
+| <img width="400" src="assets/overview2.png"> | <img width="400" src="assets/overview3.png"> |
+| <img width="400" src="assets/overview4.png"> | <img width="400" src="assets/overview5.png"> |
 
 ---
 
